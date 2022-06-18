@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Начальная страница</title>
+  </head>
+  <header>
+  <h1>Регистрация</h1>
+  </header>
+  <body>
+    <form>
+      <input type="email" placeholder="E-mail"><br>
+      <input type="text" placeholder="Фамилия"><br>
+      <input type="text" placeholder="Имя">
+      <p><input type="checkbox" placeholder="Запомнить меня">Запомнить меня</p>
+      <input type="submit">
+    </form>
+  </body>
+</html>
